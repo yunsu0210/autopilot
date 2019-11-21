@@ -1,6 +1,6 @@
 # Autopilot
 ## Develop for ROS on Jetson
-### exercise 
+### EXERCISE 
 - mkdir ~/cakin_ws && cd ~/catkin_ws
 - git clone https://github.com/yunsu0210/autopilot
 
